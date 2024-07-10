@@ -28,7 +28,7 @@
 
 #### Estou sempre disponível para aprender coisas novas e pronto para servir com criatividade e excelência, e é claro, sempre pronto para aceitar um cafezinho também kkkk ☕.
 
-## Contatos
+## Contatos:
 
 <link
   rel="stylesheet"
