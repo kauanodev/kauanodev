@@ -1,4 +1,8 @@
-## Hi there 👋
+### Eae galera, como vocês estão? cês tão bem? Me chamo Kauan e este é meu perfil, sejam muito bem-vindos! ☕
+
+## Redes Sociais:
+[![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan.o.dev?utm_source=qr&igsh=YXM1cnM2OGQ1ODll)
+
 
 <!--
 **kauanxavier13/kauanxavier13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
